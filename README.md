@@ -4,13 +4,18 @@
 ---
 I'm a curious learner and a Data Enthusiast.
 ---
-#### Skills and Experience
+- 🌱 I’m currently learning about Deep Learning, openCV. 
+- 📚 I'm doing Bachelor of Technology from Reva University, Bangalore, India.
+- 👨‍💻 I am a believer of constant learning. I spend good amount of time to learn and stay updated with my domain.
+---
+### Skills and Experience
+
 Python | Data Science | Machine Learning | Scikit Learn | MongoDB | SQL | Flask
 
-- 🌱 I’m currently learning Deep Learning 
 ---
 NOTE: Top languages does not indicate my skill level, it's a github metric of which languages i have the most code on github.
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nilesh170)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nilesh17//)  
+___
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nilesh170)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nilesh17//)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh170)](https://github.com/anuraghazra/github-readme-stats)
 
