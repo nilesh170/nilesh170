@@ -2,7 +2,7 @@
 ---
 ![](https://github.com/nilesh170/nilesh170/blob/main/Banner.png)
 ---
-I am a Data Science enthusiast and a curious learner with a deep understanding of statistical concepts and analytical practices with experience of working with Data Analytics tools and delievering data-driven solutions.
+#### I am a Data Science enthusiast and a curious learner with a deep understanding of statistical concepts and analytical practices with experience of working with Data Analytics tools and delievering data-driven solutions.
 ---
 - 🌱 I’m currently learning about Deep Learning, openCV. 
 - 💪 Worked on Machine Learning and Natural Language Processing.
