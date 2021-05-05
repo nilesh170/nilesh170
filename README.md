@@ -2,9 +2,10 @@
 ---
 ![](https://github.com/nilesh170/nilesh170/blob/main/Banner.png)
 ---
-I'm a curious learner and a Data Enthusiast.
+I am a Data Science enthusiast and a curious learner with a deep understanding of statistical concepts and analytical practices with experience of working with Data Analytics tools and delievering data-driven solutions.
 ---
 - 🌱 I’m currently learning about Deep Learning, openCV. 
+- 💪 Worked on Machine Learning and Natural Language Processing.
 - 📚 I'm doing Bachelor of Technology from Reva University, Bangalore, India.
 - 👨‍💻 I am a believer of constant learning. I spend good amount of time to learn and stay updated with my domain.
 ---
